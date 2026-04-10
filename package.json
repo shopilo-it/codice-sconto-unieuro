@@ -1,0 +1,22 @@
+{
+  "name": "codice-sconto-unieuro",
+  "version": "1.0.0",
+  "description": "Fetch automat de coduri de reducere Unieuro de pe shopilo.it",
+  "main": "index.js",
+  "keywords": [
+    "cod-reducere",
+    "cod-reducere-unieuro",
+    "voucher-unieuro",
+    "cupon-unieuro",
+    "reduceri",
+    "shopilo",
+    "cupoane"
+  ],
+  "author": "shopilo-it",
+  "license": "MIT",
+  "homepage": "https://shopilo.it/magazin/unieuro.it",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-it/codice-sconto-unieuro.git"
+  }
+}
